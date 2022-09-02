@@ -11,6 +11,10 @@ public class Aula02TiposPrimitivos {
         short idadeShort = 21;
         boolean verdadeiro = true;
         boolean falso = false;
-        char caractere = 'A';
+        char caractere = '\u0041'; // 2 bytes
+
+        System.out.println("A idade é " + idade + " anos");
+        System.out.println(falso);
+        System.out.println("char " + caractere);
     }
 }
