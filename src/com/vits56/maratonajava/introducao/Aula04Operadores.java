@@ -42,7 +42,16 @@ public class Aula04Operadores {
 
         System.out.println("isPlaystantionCincoCompravel " + isPlaystantionCincoCompravel);
 
+        // = += -= *= /= %=
 
+        double bonus = 1800;
+        bonus += 1000;
+        System.out.println(bonus);
 
+        // ++ --
+
+        int contador = 0;
+        contador++;
+        System.out.println(contador);
     }
 }
