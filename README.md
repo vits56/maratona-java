@@ -8,7 +8,7 @@ Meu repositório de estudos da linguagem Java do Canal [DevDojo](https://www.you
 - [x] Tipos Primitivos
 - [x] Operadores
 - [x] Estruturas de Condicionais
-- [ ] Estruturas de Repetição
+- [x] Estruturas de Repetição
 - [ ] Arrays
 - [ ] Arrays Multidimensionais
 - [ ] Orientação a Objetos - Classes
