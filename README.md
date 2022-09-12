@@ -9,7 +9,7 @@ Meu repositório de estudos da linguagem Java do Canal [DevDojo](https://www.you
 - [x] Operadores
 - [x] Estruturas de Condicionais
 - [x] Estruturas de Repetição
-- [ ] Arrays
+- [x] Arrays
 - [ ] Arrays Multidimensionais
 - [ ] Orientação a Objetos - Classes
 - [ ] Orientação a Objetos - Coesão
