@@ -11,7 +11,7 @@ Meu repositório de estudos da linguagem Java do Canal [DevDojo](https://www.you
 - [x] Estruturas de Repetição
 - [x] Arrays
 - [x] Arrays Multidimensionais
-- [ ] Orientação a Objetos - Classes
+- [x] Orientação a Objetos - Classes
 - [ ] Orientação a Objetos - Coesão
 - [ ] Orientação a Objetos - Metodos
 - [ ] Orientação a Objetos - Modificadores de Acesso
