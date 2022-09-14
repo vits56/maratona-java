@@ -1,6 +1,6 @@
-package com.vits56.maratonajava.javacore.introducaoclasses.test;
+package com.vits56.maratonajava.javacore.Aintroducaoclasses.test;
 
-import com.vits56.maratonajava.javacore.introducaoclasses.dominio.Estudante;
+import com.vits56.maratonajava.javacore.Aintroducaoclasses.dominio.Estudante;
 
 public class EstudanteTest01 {
     public static void main(String[] args) {
