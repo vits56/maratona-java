@@ -8,6 +8,7 @@ public class CarroTest01 {
         Carro carro2 = new Carro();
         Carro carro3 = new Carro();
 
+        carro = carro2;
 
         carro.nome = "Ferrari";
         carro.modelo = "F40";
