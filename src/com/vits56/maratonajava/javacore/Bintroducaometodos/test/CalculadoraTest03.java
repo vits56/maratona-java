@@ -2,10 +2,11 @@ package com.vits56.maratonajava.javacore.Bintroducaometodos.test;
 
 import com.vits56.maratonajava.javacore.Bintroducaometodos.dominio.Calculadora;
 
-public class CalculadoraTest01 {
+public class CalculadoraTest03 {
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
-        calculadora.somaDoisNumeros();
-        calculadora.subtraiDoisNumeros();
+        double resultado = calculadora.divideDoisNumeros(2, 20);
+        System.out.println(resultado);
+
     }
 }
