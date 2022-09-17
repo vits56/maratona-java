@@ -13,7 +13,7 @@ Meu repositório de estudos da linguagem Java do Canal [DevDojo](https://www.you
 - [x] Arrays Multidimensionais
 - [x] Orientação a Objetos - Classes
 - [x] Orientação a Objetos - Coesão
-- [ ] Orientação a Objetos - Metodos
+- [x] Orientação a Objetos - Metodos
 - [ ] Orientação a Objetos - Modificadores de Acesso
 - [ ] Orientação a Objetos - Sobrecarga
 - [ ] Orientação a Objetos - Construtores
