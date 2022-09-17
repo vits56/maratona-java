@@ -22,5 +22,10 @@ public class EstudanteTest01 {
         System.out.printf("--------------------%n");
 
         impressora.imprime(estudante02);
+
+        System.out.printf("--------------------%n");
+
+        impressora.imprime(estudante01);
+        impressora.imprime(estudante02);
     }
 }
