@@ -15,8 +15,8 @@ Meu repositório de estudos da linguagem Java do Canal [DevDojo](https://www.you
 - [x] Orientação a Objetos - Coesão
 - [x] Orientação a Objetos - Metodos
 - [x] Orientação a Objetos - Modificadores de Acesso
-- [ ] Orientação a Objetos - Sobrecarga
-- [ ] Orientação a Objetos - Construtores
+- [x] Orientação a Objetos - Sobrecarga
+- [x] Orientação a Objetos - Construtores
 - [ ] Orientação a Objetos - Blocos de Inicialização
 - [ ] Orientação a Objetos - Associação
 - [ ] Orientação a Objetos - Herança
