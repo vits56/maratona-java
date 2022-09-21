@@ -16,6 +16,8 @@ public class HerancaTest01 {
 
         pessoa.imprime();
 
+        System.out.println("---------------");
+
         Funcionario funcionario = new Funcionario();
         funcionario.setNome("Maria");
         funcionario.setCpf("111.111.111-11");
