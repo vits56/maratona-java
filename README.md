@@ -19,7 +19,7 @@ Meu repositório de estudos da linguagem Java do Canal [DevDojo](https://www.you
 - [x] Orientação a Objetos - Construtores
 - [x] Orientação a Objetos - Blocos de Inicialização
 - [x] Orientação a Objetos - Associação
-- [ ] Orientação a Objetos - Herança
+- [x] Orientação a Objetos - Herança
 - [ ] Orientação a Objetos - Enumerações
 - [ ] Orientação a Objetos - Classes Abstratas
 - [ ] Orientação a Objetos - Interfaces
