@@ -23,7 +23,7 @@ Meu repositório de estudos da linguagem Java do Canal [DevDojo](https://www.you
 - [x] Orientação a Objetos - Modificadore final
 - [x] Orientação a Objetos - Enumerações
 - [x] Orientação a Objetos - Classes Abstratas
-- [ ] Orientação a Objetos - Interfaces
+- [x] Orientação a Objetos - Interfaces
 - [ ] Orientação a Objetos - Polimorfismo
 - [ ] Exceções
 - [ ] Classes utilitárias
