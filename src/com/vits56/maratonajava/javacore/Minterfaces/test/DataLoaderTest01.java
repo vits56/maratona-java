@@ -1,5 +1,6 @@
 package com.vits56.maratonajava.javacore.Minterfaces.test;
 
+import com.vits56.maratonajava.javacore.Minterfaces.dominio.DataLoader;
 import com.vits56.maratonajava.javacore.Minterfaces.dominio.DatabaseLoader;
 import com.vits56.maratonajava.javacore.Minterfaces.dominio.FileLoader;
 
@@ -16,5 +17,8 @@ public class DataLoaderTest01 {
 
         databaseLoader.checkPermission();
         fileLoader.checkPermission();
+
+        DataLoader.retrieveMaxDataSize();
+        DatabaseLoader.retrieveMaxDataSize();
     }
 }
