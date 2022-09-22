@@ -24,7 +24,7 @@ Meu repositório de estudos da linguagem Java do Canal [DevDojo](https://www.you
 - [x] Orientação a Objetos - Enumerações
 - [x] Orientação a Objetos - Classes Abstratas
 - [x] Orientação a Objetos - Interfaces
-- [ ] Orientação a Objetos - Polimorfismo
+- [x] Orientação a Objetos - Polimorfismo
 - [ ] Exceções
 - [ ] Classes utilitárias
 - [ ] Collections
