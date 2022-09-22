@@ -22,7 +22,7 @@ Meu repositório de estudos da linguagem Java do Canal [DevDojo](https://www.you
 - [x] Orientação a Objetos - Herança
 - [x] Orientação a Objetos - Modificadore final
 - [x] Orientação a Objetos - Enumerações
-- [ ] Orientação a Objetos - Classes Abstratas
+- [x] Orientação a Objetos - Classes Abstratas
 - [ ] Orientação a Objetos - Interfaces
 - [ ] Orientação a Objetos - Polimorfismo
 - [ ] Exceções
