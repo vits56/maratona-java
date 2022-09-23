@@ -1,20 +1,15 @@
 package com.vits56.maratonajava.javacore.Oexception.runtime.test;
 
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.sql.SQLException;
 
 public class RuntimeExceptionTest04 {
     public static void main(String[] args) {
         try {
             throw new RuntimeException();
-        } catch (ArrayIndexOutOfBoundsException e) {
+        } catch (ArrayIndexOutOfBoundsException | IllegalArgumentException | ArithmeticException e) {
             System.out.println("Dentro do ArrayIndexOutOfBoundsException");
-        } catch (IndexOutOfBoundsException e) {
-            System.out.println("Dentro do IndexOutOfBoundsException");
-        } catch (IllegalArgumentException e) {
-            System.out.println("Dentro do IllegalArgumentException");
-        } catch (ArithmeticException e) {
-            System.out.println("Dentro do ArithmeticException");
         } catch (RuntimeException e) {
             System.out.println("Dentro do RuntimeException");
         }
@@ -22,16 +17,17 @@ public class RuntimeExceptionTest04 {
 
         try {
             talvezLanceException();
-        } catch (SQLException e) {
-            throw new RuntimeException(e);
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
+        } catch (Exception e) {
+            e = new RuntimeException();
+            e.printStackTrace();
         }
 
     }
 
-    private static void talvezLanceException() throws SQLException, FileNotFoundException {
-
+    private static void talvezLanceException() throws SQLException, FileNotFoundException, IOException {
+        //throw new SQLException();
+        //throw new FileNotFoundException();
+        //throw new IOException();
     }
 
 }
