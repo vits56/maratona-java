@@ -1,4 +1,4 @@
-package com.vits56.maratonajava.javacore.Oexception.test;
+package com.vits56.maratonajava.javacore.Oexception.error.test;
 
 public class StackOverflowTest01 {
     public static void main(String[] args) {
