@@ -25,7 +25,7 @@ Meu repositório de estudos da linguagem Java do Canal [DevDojo](https://www.you
 - [x] Orientação a Objetos - Classes Abstratas
 - [x] Orientação a Objetos - Interfaces
 - [x] Orientação a Objetos - Polimorfismo
-- [ ] Exceções
+- [x] Exceções
 - [ ] Classes utilitárias
 - [ ] Collections
 - [ ] Generics
