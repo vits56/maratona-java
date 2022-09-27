@@ -39,7 +39,5 @@ public class TemporalAdjusterTest01 {
         System.out.println(now);
         System.out.println(now.getDayOfWeek());
 
-
-
     }
 }
